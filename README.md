@@ -15,7 +15,7 @@ Traditional analytics scripts (like standard Google Analytics 4 tags) fire on pa
 ## 🚀 Quickstart
 ```bash
 # Clone the repository
-git clone https://github.com/phantom-dev/nextjs-web-vitals-analytics.git
+git clone https://github.com/PhaNtomSIR/nextjs-web-vitals-analytics.git
 
 # Install dependencies
 pnpm install
